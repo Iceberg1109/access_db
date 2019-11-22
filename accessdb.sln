@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "accessdb", "accessdb\accessdb.csproj", "{0906D489-F0E5-497B-8BB2-CEEB7B3732C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0906D489-F0E5-497B-8BB2-CEEB7B3732C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0906D489-F0E5-497B-8BB2-CEEB7B3732C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0906D489-F0E5-497B-8BB2-CEEB7B3732C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0906D489-F0E5-497B-8BB2-CEEB7B3732C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5EB4F0-0F3A-427A-81ED-3922D2C795E0}
+	EndGlobalSection
+EndGlobal

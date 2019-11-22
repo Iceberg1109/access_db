@@ -1,0 +1,11 @@
+E:\Current Work\Eco-app\accessdb\accessdb\bin\Debug\netcoreapp2.1\accessdb.deps.json
+E:\Current Work\Eco-app\accessdb\accessdb\bin\Debug\netcoreapp2.1\accessdb.runtimeconfig.json
+E:\Current Work\Eco-app\accessdb\accessdb\bin\Debug\netcoreapp2.1\accessdb.runtimeconfig.dev.json
+E:\Current Work\Eco-app\accessdb\accessdb\bin\Debug\netcoreapp2.1\accessdb.dll
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.csprojAssemblyReference.cache
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.csproj.CoreCompileInputs.cache
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.AssemblyInfoInputs.cache
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.AssemblyInfo.cs
+E:\Current Work\Eco-app\accessdb\accessdb\bin\Debug\netcoreapp2.1\accessdb.pdb
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.dll
+E:\Current Work\Eco-app\accessdb\accessdb\obj\Debug\netcoreapp2.1\accessdb.pdb
